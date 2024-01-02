@@ -1,0 +1,19 @@
+[33mcommit 50c95a904b3e02f5343d94a45898ca962f8b0be9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Smit0212 <smitsutariya056+GitHub@gmail.com>
+Date:   Mon Jan 1 13:52:39 2024 +0530
+
+    Revert "project added"
+    
+    This reverts commit 3592891286f13aeec1627352c5cc62a818379b45.
+
+[33mcommit 3592891286f13aeec1627352c5cc62a818379b45[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Smit0212 <smitsutariya056+GitHub@gmail.com>
+Date:   Mon Jan 1 13:42:52 2024 +0530
+
+    project added
+
+[33mcommit 4bf7c008332138b5f8af7cf98131f9895925098a[m
+Author: Smit0212 <smitsutariya056+GitHub@gmail.com>
+Date:   Fri Dec 29 16:49:30 2023 +0530
+
+    OS Algorithm
